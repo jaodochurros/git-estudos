@@ -15,6 +15,12 @@ git clone git@github.com:jaodochurros/git-estudos.git
 
 ### Vendo o status do repositório
 
+Exibe status dos arquivos que estão en working dir e stage.
+
+```
+git status
+```
+
 ### Iniciando um novo repositório 
 
 ### Adicionando ao stage
